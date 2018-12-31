@@ -1,0 +1,67 @@
+[
+  
+  {
+    "id": 1,
+    "name": "来电狂响",
+    "picture": "images/1.jpg",
+    "score": 13
+  },
+  {
+    "id": 2,
+    "name": "海王",
+    "picture": "images/2.jpg",
+    "score": 35
+  },
+  {
+    "id": 3,
+    "name": "蜘蛛侠：平行宇宙",
+    "picture": "images/3.jpg",
+    "score": 36
+  },
+  {
+    "id": 4,
+    "name": "印度暴徒",
+    "picture": "images/4.jpg",
+    "score": 6
+    
+  },
+  {
+    "id": 5,
+    "name": "叶问外传",
+    "picture": "images/5.jpg",
+    "score": 6
+    
+  },
+  {
+    "id": 6,
+    "name": "龙猫",
+    "picture": "images/6.jpg",
+    "score": 21
+  },
+  {
+    "id": 7,
+    "name": "印度合伙人",
+    "picture": "images/7.jpg",
+    "score": 15
+    
+  },
+  {
+    "id": 8,
+    "name": "网络迷踪",
+    "picture": "images/8.jpg",
+    "score": 17
+    
+  },
+  {
+    "id": 9,
+    "name": "毒液",
+    "picture": "images/9.jpg",
+    "score": 10
+  },
+  {
+    "id": 10,
+    "name": "狗十三",
+    "picture": "images/10.jpg",
+    "score": 19
+  }
+]
